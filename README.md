@@ -12,13 +12,10 @@
     и Django (немного), SpringBoot, NestJS, а также  Unity -  среды для разработки графических приложений. 
 </p>
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2em; line-height: 1.6; color: #555; text-align: justify;">
-    У меня есть практический опыт разработки веб-приложений как в
-    backend-е, так и frontend-е. Я работал с Node.js, Express, Nest.js,
-    JavaScript, TypeScript, Vue, HTML и CSS. 
-</p>
-<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2em; line-height: 1.6; color: #555; text-align: justify;">
     Посмотреть мои проекты на GitHub и связаться со мной можно по
     ссылкам ниже:
+    <a href="https://github.com/golosoman/Projects">Реализованные проекты</a>
+    <a href="https://github.com/golosoman/Courses">Прохождение курсов</a>
 </p>
 <p style="text-align: center;">
       <a href="https://t.me/Golosoman" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Telegram</a>
