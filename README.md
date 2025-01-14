@@ -8,19 +8,19 @@
 
 # Проекты 💼
 
-- Все реализованные мной проекты по ссылке: [🚀 все проекты](https://github.com/golosoman/Projects)
-- Учебная работа в университете: [🎓 учеба](https://github.com/golosoman/University)
-- Пройденные курсы: [📚 курсы](https://github.com/golosoman/Courses)
+- Все реализованные мной проекты по ссылке: 🚀 [все проекты](https://github.com/golosoman/Projects)
+- Учебная работа в университете: 🎓 [учеба](https://github.com/golosoman/University)
+- Пройденные курсы: 📚 [курсы](https://github.com/golosoman/Courses)
 
 ## Последние посты 👀
 
-– [🚙 Приложение для подготовки к сдаче теоретического экзамена на ВУ (В разработке) {Unity + Java(Spring)}](https://github.com/golosoman/DriverLicense)
+– 🚙 [Приложение для подготовки к сдаче теоретического экзамена на ВУ (В разработке) {Unity + Java(Spring)}](https://github.com/golosoman/DriverLicense)
 
-– [⌨️ Клавиатурный тренажер для тренировки слепой печати с функциями администратора {Vue + TS + Python(Flask)}](https://github.com/golosoman/GigaType)
+– ⌨️ [Клавиатурный тренажер для тренировки слепой печати с функциями администратора {Vue + TS + Python(Flask)}](https://github.com/golosoman/GigaType)
 
-– [❤️ Медицинские калькуляторы (Летняя практика) {Java(SpringBoot)}](https://github.com/golosoman/Projects/tree/master/Medical_Calculator_Spring_Boot)
+– ❤️ [Медицинские калькуляторы (Летняя практика) {Java(SpringBoot)}](https://github.com/golosoman/Projects/tree/master/Medical_Calculator_Spring_Boot)
 
-– [🤖 Парсер, телеграм бот для AlfaMoney (с возможностью атворизации в аккаунте AlfaBank) {Python(aiogram, BS ...)}](https://teletype.in/@life_verstka/6_vue_2_patterns)
+– 🤖 [Парсер, телеграм бот для AlfaMoney (с возможностью атворизации в аккаунте AlfaBank) {Python(aiogram, BS ...)}](https://teletype.in/@life_verstka/6_vue_2_patterns)
 
 # Статистика на CodeWars 📈
 [![codewars](https://www.codewars.com/users/golosoman/badges/large)](https://www.codewars.com/users/golosoman)
