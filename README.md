@@ -20,7 +20,7 @@
 
 – ❤️ [Медицинские калькуляторы (Летняя практика) {Java(SpringBoot)}](https://github.com/golosoman/Projects/tree/master/Medical_Calculator_Spring_Boot)
 
-– 🤖 [Парсер, телеграм бот для AlfaMoney (с возможностью атворизации в аккаунте AlfaBank) {Python(aiogram, BS ...)}](https://teletype.in/@life_verstka/6_vue_2_patterns)
+– 🤖 [Парсер, телеграм бот для AlfaMoney (с возможностью атворизации в аккаунте AlfaBank) {Python(aiogram, BS ...)}](https://github.com/golosoman/Projects/tree/master/Alfa_Parser)
 
 # Статистика на CodeWars 📈
 [![codewars](https://www.codewars.com/users/golosoman/badges/large)](https://www.codewars.com/users/golosoman)
