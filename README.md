@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FFFFFF&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FFFFFF&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E!+%F0%9F%91%8B)]
 
 Меня зовут Константин, я студент Самарского национального исследовательского университета, увлеченный программированием и разработкой.
 
@@ -18,7 +18,7 @@
 
 – ⌨️ [Клавиатурный тренажер для тренировки слепой печати с функциями администратора {Vue + TS + Python(Flask)}](https://github.com/golosoman/GigaType)
 
-– ❤️ [Медицинские калькуляторы (Летняя практика) {Java(SpringBoot)}](https://github.com/golosoman/Projects/tree/master/Medical_Calculator_Spring_Boot)
+– ❤️ [Медицинские калькуляторы (Производственная практика) {Java(SpringBoot)}](https://github.com/golosoman/Projects/tree/master/Medical_Calculator_Spring_Boot)
 
 – 🤖 [Парсер, телеграм бот для AlfaMoney (с возможностью атворизации в аккаунте AlfaBank) {Python(aiogram, BS ...)}](https://github.com/golosoman/Projects/tree/master/Alfa_Parser)
 
